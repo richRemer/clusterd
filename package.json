@@ -1,0 +1,25 @@
+{
+  "name": "clusterd",
+  "version": "0.0.1",
+  "description": "cluster management daemon",
+  "main": "clusterd.js",
+  "bin": {
+    "clusterd": "clusterd.js"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/richRemer/clusterd.git"
+  },
+  "author": "Richard Remer <reanjr@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/richRemer/clusterd/issues"
+  },
+  "homepage": "https://github.com/richRemer/clusterd#readme"
+}
